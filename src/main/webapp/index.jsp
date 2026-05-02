@@ -41,7 +41,7 @@
         <div class="carousel">
             <!-- <div class="slider">
                 <div class="slide-content">
-                    <h1 class="movie-title">loki</h1>
+                    <h1 class="movie-title">Bolki</h1>
                     <p class="movie-des">Lorem ipsum title, sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
                 </div>
                 <img src="./assets/img/slider 1.png" alt="Slider">
@@ -130,7 +130,7 @@
             <div class="card">
                 <img src="./assets/img/poster 6.png" class="card-img" alt="">
                 <div class="card-body">
-                    <h2 class="name">benchers</h2>
+                    <h2 class="name">Avenchers</h2>
                     <h6 class="des">Khush Hello dolor hello consectetur elit.</h6>
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
